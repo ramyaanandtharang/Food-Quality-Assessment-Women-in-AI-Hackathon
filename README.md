@@ -8,7 +8,7 @@ so that they can most optimize their time at hand to catch the worst offenders.
 Can the past inspection or any data that they have collected predict which facility will pass or fail.
 
 In this hackathon, MachineHack provides you with a subset of this dataset with information on food quality checks conducted
-on thousands of facilities that serve food across multiple cities. Your objective as a Data Scientist is to predict whether a 
+on thousands of facilities that serve food across multiple cities. Our objective as a Data Scientist is to predict whether a 
 facility will pass or fail the inspection based on a number of factors.
 
 Objective:
